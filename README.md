@@ -1,3 +1,4 @@
+[![Visits Badge](https://badges.pufler.dev/visits/bmqube/bmqube)](https://badges.pufler.dev)  [![Repos Badge](https://badges.pufler.dev/repos/bmqube)](https://badges.pufler.dev)   [![Commits Badge](https://badges.pufler.dev/commits/yearly/bmqube)](https://badges.pufler.dev)
 ## Hi there 👋, My name is Morshed
 #### Programming Enthusiast & A Promising Solver
 ![Programming Enthusiast & A Promising Solver](https://bmqube.com/images/coverGithub.png)
