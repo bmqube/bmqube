@@ -11,7 +11,7 @@ Skills: Python / Node / JS / HTML / CSS
 - 🌱 I’m currently learning MERN Stack, Data Structures and Algorithm 
 
 
-[![bmqube's github stats](https://github-readme-stats.vercel.app/api?username=bmqube)](https://github.com/bmqube/github-readme-stats)
+[![bmqube's github stats](https://github-readme-stats.vercel.app/api?username=bmqube&count_private=true)](https://github.com/bmqube)
 
 
 Find me on: 
